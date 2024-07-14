@@ -14,7 +14,7 @@ Make sure you have the necessary permissions and resources set up in your AWS ac
 
 # Model Evaluation
 
-Before fine-tuning the Llama2 model, an evaluation was performed to assess its performance on the given task. The evaluation results are documented in the Model_evaluation.ipynb notebook.
+Before fine-tuning the Llama2 model, an evaluation was performed to assess its performance on the given task. The evaluation results are documented in the Model_Evaluation_UdacityGenAIAWS.ipynb notebook.
 
 # Fine-tuning
 
