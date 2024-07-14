@@ -18,6 +18,6 @@ Before fine-tuning the Llama2 model, an evaluation was performed to assess its p
 
 # Fine-tuning
 
-The fine-tuning process involved training the Llama2 model on a domain-specific dataset to improve its performance on the target task. Details of the fine-tuning process can be found in the Model_fineTuning.ipynb notebook.
+The fine-tuning process involved training the Llama2 model on a domain-specific dataset to improve its performance on the target task. Details of the fine-tuning process can be found in the Model_FineTuning.ipynb notebook.
 
 To visually demonstrate the impact of fine-tuning, screenshots of the model's response before and after fine-tuning are provided.
